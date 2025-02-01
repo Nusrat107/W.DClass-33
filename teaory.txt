@@ -1,0 +1,27 @@
+Conditional Statement...(if/else & switch/case)
+
+If Subonna comes bing flower for me  then I will give few chocklet, if samiya comes with her 
+imformation then I will do her apply for admission or if laboni comes by his car 
+then we will go to a long drive otherwise I will enjoy cocking at my home.
+
+Subonna => flower = chocklet
+Samiya => imformation  = apply
+Laboni => Car   = long drive
+Other = cocking
+
+
+if (condition){ 
+    //Statement....
+}
+
+else if(condition){
+    //Statement...
+}
+
+else if(condition){
+    ///Statement...
+}
+
+else{
+    //Statement...
+}
